@@ -27,7 +27,7 @@ ros2 launch navigator_bot_bringup diff_drive.launch.py
 
 ### Autonomy
 
-To Be Included
+- `occupancy_grid_mapper`: Creates the 2D occupancy map of the robot's environment
 
 ### Gazebo
 
